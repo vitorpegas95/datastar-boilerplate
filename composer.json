@@ -1,0 +1,17 @@
+{
+  "name": "vitor/datastar",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Vitor Pêgas",
+      "email": "vitorpegas95@gmail.com"
+    }
+  ],
+  "require": {
+    "starfederation/datastar-php": "dev-main"
+  }
+}
